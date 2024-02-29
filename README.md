@@ -1,6 +1,6 @@
 # New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking
 
-[Karanpartap Singh](https://karanps.com), [James Zou](https://www.james-zou.com/).
+[Karanpartap Singh](https://karanps.com), [James Zou](https://www.james-zou.com/)
 
 **Stanford University, School of Engineering**
 
