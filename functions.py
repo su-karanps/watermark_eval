@@ -86,7 +86,7 @@ from_t = lambda tensor: tensor.to('cpu').detach().numpy()
 ## ----------------------------------------
 
 # define client
-client = OpenAI(api_key="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",)
+client = OpenAI(api_key="FILL IN",)
 
 # inference ada-002 embeddings
 def get_embedding(text):
