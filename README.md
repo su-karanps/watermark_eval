@@ -17,7 +17,7 @@ This repository contains notebooks detailing the two primary evaluation metrics:
 
 ## Citation
 
-If you found SkullGAN helpful for your own research or applications, please cite it using the following BibTeX:
+If you found our work helpful for your own research or applications, please cite it using the following BibTeX:
 ```bibtex
     @article{WatermarkEvaluation,
         title={New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking},
